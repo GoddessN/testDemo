@@ -20,6 +20,10 @@
     
     NSLog(@"Hello world!");
     
+    NSInteger index = 0;
+    index++;
+    NSLog(@"index = %ld",index);
+    
 }
 
 
