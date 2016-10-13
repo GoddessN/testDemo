@@ -24,6 +24,9 @@
     index++;
     NSLog(@"index = %ld",index);
     
+    NSString *today = @"Thursday";
+    NSLog(@"Today is %@.",today);
+    
 }
 
 
